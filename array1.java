@@ -7,7 +7,8 @@ public class Array1{
 
 
 }
-
+//THIS PROGRAM CHECKS TO SEE IF THERE ARE ANY PAIRS OF NUMBERS IN THE 
+//ARRAY THAT SUM UP TO THE NUMBER PASSED IN AS A PARAMETER
 public static void checkSum(int[] a, int n)
 {
 	//int[] list = new int[]
